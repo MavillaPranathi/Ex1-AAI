@@ -1,7 +1,7 @@
-<H3> Name </H3>Anbuselvam A
-<H3>Register No.</H3>212222240009
+<H3> M.Pranathi </H3>
+<H3>Register No.212222240064</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>02-09-2024
+<H3>DATE:03-09-2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 ## Aim :
     To create a bayesian Network for the given dataset in Python
