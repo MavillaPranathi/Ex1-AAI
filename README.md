@@ -1,8 +1,9 @@
+<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 <H3> M.Pranathi </H3>
 <H3>Register No.212222240064</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:03-09-2024</H3>
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
